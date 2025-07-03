@@ -14,6 +14,7 @@
 - NFT маркетплейсы и проекты
 - Инструменты для разработчиков
 - Фаусеты и тестовые сети
+- Полезные ссылки по Телеграм подаркам
 
 ## Зачем это нужно?
 
@@ -52,6 +53,7 @@ A collection of bookmarks for cryptocurrency and DeFi projects. It will be usefu
 - NFT Marketplaces and Projects
 - Developer Tools
 - Faucets and Test Networks
+- Useful links on Telegram gifts
 
 ## Why is this useful?
 
